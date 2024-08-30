@@ -1,6 +1,2 @@
 console.log('hello')
-console.log('sachin')
-console.log('hello')
-console.log('sachin')
-console.log('hello')
-console.log('sachin')
+console.log('updated file')
